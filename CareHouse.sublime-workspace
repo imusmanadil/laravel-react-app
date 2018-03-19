@@ -1,0 +1,1512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"rat",
+				"rating"
+			],
+			[
+				"colo",
+				"color_lawn"
+			],
+			[
+				"rate",
+				"rateColor"
+			],
+			[
+				"t",
+				"toppings"
+			],
+			[
+				"my",
+				"myfunc"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"Super",
+				"SuperAdmin\t(RolesTableSeeder.php)"
+			],
+			[
+				"Supe",
+				"SuperAdmin\t(RolesTableSeeder.php)"
+			],
+			[
+				"R",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"is_s",
+				"is_string〔function〕"
+			],
+			[
+				"Role",
+				"RolesTableSeeder\t(RolesTableSeeder.php)"
+			],
+			[
+				"tabe",
+				"table"
+			],
+			[
+				"f",
+				"for\tblade-for"
+			],
+			[
+				"for",
+				"for\tblade-for"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"tec",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"rounde",
+				"rounded-0 \tBootstrap 4 Class"
+			],
+			[
+				"texs",
+				"text-sm-right \tBootstrap 4 Class"
+			],
+			[
+				"dis",
+				"display-1 \tBootstrap 4 Class"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"displ",
+				"display-4\t(base.css)"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"imp",
+				"import〔keyword〕"
+			],
+			[
+				"la",
+				"laravel-api/"
+			],
+			[
+				"scr",
+				"script\t<script>"
+			],
+			[
+				"op",
+				"op\topacity"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"modal2",
+				"modal2Title"
+			],
+			[
+				"fore",
+				"foreach\tblade-foreach"
+			],
+			[
+				"Rp",
+				"Route::post\tBasic Post Route."
+			],
+			[
+				"cra",
+				"created_time"
+			],
+			[
+				"from",
+				"fromUser"
+			],
+			[
+				"redi",
+				"redirect〔function〕"
+			],
+			[
+				"prot",
+				"protected〔keyword〕"
+			],
+			[
+				"cre",
+				"created_time\t(2018_02_28_105148_create_news_table.php)"
+			],
+			[
+				"vali",
+				"validator\t(RegisterController.php)"
+			],
+			[
+				"create",
+				"createNews"
+			],
+			[
+				"jwt",
+				"jwt.auth\t(api.php)"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"ran",
+				"range〔function〕"
+			],
+			[
+				"sele",
+				"select-role\t(register.blade.php)"
+			],
+			[
+				"opti",
+				"option"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"st",
+				"state\tReact: this.state."
+			],
+			[
+				"_",
+				"_G\tPHP: GET['...']"
+			],
+			[
+				"Lo",
+				"LoginButton"
+			],
+			[
+				"ren",
+				"ren\tReact: render: fn() { return ... }"
+			],
+			[
+				"time",
+				"timerID"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"prop",
+				"props"
+			],
+			[
+				"sc",
+				"script\t<script>"
+			],
+			[
+				"learn",
+				"learn-react"
+			],
+			[
+				"author",
+				"authorizae"
+			],
+			[
+				"http_bu",
+				"http_build_query"
+			],
+			[
+				"S",
+				"Switch"
+			],
+			[
+				"RO",
+				"Router"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"COl",
+				"Column"
+			],
+			[
+				"Ma",
+				"Main"
+			],
+			[
+				"Rou",
+				"Router"
+			],
+			[
+				"Ro",
+				"Router"
+			],
+			[
+				"rea",
+				"react"
+			],
+			[
+				"ma",
+				"materials"
+			],
+			[
+				"lear",
+				"learn-react\t(web.php)"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"lis",
+				"list\tlist-style-type"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Tr",
+				"translateX()"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"ou",
+				"outline-offset"
+			],
+			[
+				"c",
+				"c\tcolor: #${1:000};"
+			],
+			[
+				"bds",
+				"bds-s\tborder-style: solid;"
+			],
+			[
+				"da",
+				"dashed"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bxs",
+				"box-sizing"
+			],
+			[
+				"foo",
+				"footer\t<footer>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cla",
+				"class=〔attribute〕"
+			],
+			[
+				"scrip",
+				"script\tTag"
+			],
+			[
+				"cir",
+				"circle〔value〕"
+			],
+			[
+				"ls",
+				"list-style-type"
+			],
+			[
+				"heig",
+				"height: 〔property〕"
+			],
+			[
+				"wi",
+				"width: 〔property〕"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"P",
+				"Padukone"
+			],
+			[
+				"Pa",
+				"Padmaavat"
+			],
+			[
+				"li",
+				"$lightSwitch〔variable〕"
+			],
+			[
+				"com",
+				"completed〔variable〕"
+			],
+			[
+				"pub",
+				"public〔keyword〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"fe",
+				"foreach\tblade-foreach"
+			],
+			[
+				"Lara",
+				"Laravel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "emergingJavaScript/test.js",
+			"settings":
+			{
+				"buffer_size": 1239,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emergingJavaScript/Promises.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "clo",
+		"selected_items":
+		[
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"dcf",
+				"ANF: Delete Current File"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"meta",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"sni",
+				"Snippet: <meta>"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ccf",
+				"ANF: Copy Current File"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"rojec",
+				"Project: Edit"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"larave",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"colos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"dcg",
+				"Snippet: Determine if the current user is a guest."
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"side",
+				"Side Bar: Reveal File"
+			],
+			[
+				"javab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"constru",
+				"Snippet: ES6 Reflect Construct"
+			],
+			[
+				"bi",
+				"Snippet: BDD it synchronous"
+			],
+			[
+				"valu",
+				"Snippet: Object Value JS"
+			],
+			[
+				"synbab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"impor",
+				"Snippet: React: import cx from 'classnames';"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Indexing Status"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"emex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"un",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"c",
+				"Project: Close"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"snhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"swapc",
+				"Convert Case: Swap Case"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"gold",
+				"Snippet: Google AJAX Libraries: Dojo"
+			],
+			[
+				"pow",
+				"Snippet: W3C powderblue (HSL)"
+			],
+			[
+				"be",
+				"HTMLBeautify"
+			],
+			[
+				"pick",
+				"Color Picker"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"beut",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"closw",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"php clos",
+				"Snippet: PHP: Closure declaration"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"closure",
+				"Snippet: Execute a Closure within a transaction."
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 439.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/CareHouse"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/CareHouse/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/CareHouse/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/CareHouse/app/Http/Controllers/AuthController.php",
+		"/C/wamp64/www/CareHouse/vendor/psy/psysh/src/Psy/TabCompletion/AutoCompleter.php",
+		"/C/wamp64/www/CareHouse/config/app.php",
+		"/C/wamp64/www/CareHouse/config/jwt.php",
+		"/C/wamp64/www/CareHouse/vendor/tymon/jwt-auth/docs/exception-handling.md",
+		"/C/wamp64/www/CareHouse/.env",
+		"/C/wamp64/www/CareHouse/app/User.php",
+		"/C/wamp64/www/CareHouse/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/CareHouse/database/seeds/RolesTableSeeder.php",
+		"/C/wamp64/www/CareHouse/database/seeds/DatabaseSeeder.php",
+		"/C/wamp64/www/CareHouse/database/migrations/2018_03_05_103107_create_roles_table.php",
+		"/C/wamp64/www/CareHouse/app/Http/Middleware/CheckRole.php",
+		"/C/wamp64/www/CareHouse/app/Http/Kernel.php",
+		"/C/wamp64/www/CareHouse/app/Role.php",
+		"/C/wamp64/www/CareHouse/config/auth.php",
+		"/C/wamp64/www/CareHouse/routes/api.php",
+		"/C/wamp64/www/CareHouse/database/migrations/2018_03_05_104635_add_column_to_users_table.php",
+		"/C/wamp64/www/CareHouse/database/migrations/2018_03_05_100950_drop_role_column_from_user.php",
+		"/C/wamp64/www/CareHouse/composer.json",
+		"/C/wamp64/www/laravel-api/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/laravel-api/.env",
+		"/C/wamp64/www/laravel-api/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/laravel-api/resources/assets/js/authComponents/Common/TextFieldGroup.js",
+		"/C/wamp64/www/laravel-api/resources/assets/js/bootstrap.js",
+		"/C/wamp64/www/laravel-api/routes/web.php",
+		"/C/wamp64/www/laravel-api/public/css/bootstrap-fullscreen-modal.css",
+		"/C/wamp64/www/laravel-api/resources/views/test/createNews.blade.php",
+		"/C/wamp64/www/laravel-api/important",
+		"/C/wamp64/www/laravel-api/public/css/flexbox.css",
+		"/C/wamp64/www/laravel-api/hasan.md",
+		"/C/wamp64/www/laravel-api/public/bootstrap/dist/css/bootstrap.min.css",
+		"/C/wamp64/www/laravel-api/public/css/bootstrap.min.css",
+		"/C/wamp64/www/laravel-api/public/bootstrap/dist/js/bootstrap.min.js",
+		"/C/wamp64/www/laravel-api/public/js/bootstrap.min.js",
+		"/C/wamp64/www/laravel-api/public/js/popper.min.js",
+		"/C/wamp64/www/laravel-api/public/js/jquery.min.js",
+		"/C/wamp64/www/laravel-api/resources/views/test/modal.blade.php",
+		"/C/wamp64/www/laravel-api/resources/js/modal.js",
+		"/C/wamp64/www/laravel-api/public/css/base.css",
+		"/C/Users/Taimoor UL Hassan/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/wamp64/www/laravel-api/laravel-api.sublime-project",
+		"/C/Users/Taimoor UL Hassan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Taimoor UL Hassan/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/wamp64/www/laravel-api/webpack.mix.js",
+		"/C/wamp64/www/laravel-api/public/remodal/remodal-default-theme.css",
+		"/C/wamp64/www/laravel-api/database/migrations/2018_02_28_105148_create_news_table.php",
+		"/C/wamp64/www/laravel-api/public/css/bootstrap-datetimepicker.min.css",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-3/UploadsController.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-3/NewsController.php",
+		"/C/wamp64/www/laravel-api/app/Http/Controllers/NewsController.php",
+		"/C/wamp64/www/laravel-api/public/js/index.js",
+		"/C/wamp64/www/laravel-api/app/News.php",
+		"/C/wamp64/www/laravel-api/routes/api.php",
+		"/C/wamp64/www/laravel-api/tests/fun.php",
+		"/C/wamp64/www/laravel-api/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/laravel-api/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/C/wamp64/www/laravel-api/app/New.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/LanguageController.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/breadcrumbs.blade.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/dashboard.blade.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/sidebar.blade.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/uploads.blade.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/menus.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/admin.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/NewsController.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/showForm.blade.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/createNews.blade.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/DashboardController.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/labels.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/aside.blade.php",
+		"/C/wamp64/www/laravel-api/resources/views/test/creatNews.blade.php",
+		"/C/wamp64/www/laravel-api/config/app.php",
+		"/C/wamp64/www/laravel-api/app/Console/Kernel.php",
+		"/C/wamp64/www/laravel-api/app/Http/Kernel.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/UploadsController.php",
+		"/C/Users/Taimoor UL Hassan/AppData/Local/Temp/fz3temp-2/remove_restriction.blade.php",
+		"/C/wamp64/www/laravel-api/vendor/tymon/jwt-auth/src/Providers/Storage/IlluminateCacheAdapter.php",
+		"/C/wamp64/www/laravel-api/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php",
+		"/C/wamp64/www/laravel-api/config/cache.php",
+		"/C/wamp64/www/laravel-api/composer.json",
+		"/C/wamp64/www/laravel-api/database/migrations/2018_02_28_070326_create_cache_table.php",
+		"/C/wamp64/www/laravel-api/vendor/tymon/jwt-auth/src/JWTAuth.php",
+		"/C/wamp64/www/laravel-api/resources/assets/js/authComponents/styles/formStyles.scss",
+		"/C/wamp64/www/laravel-api/resources/views/index.blade.php",
+		"/C/wamp64/www/laravel-api/resources/assets/js/authComponents/authActions.js",
+		"/C/wamp64/www/laravel-api/resources/assets/js/authComponents/LoginForm.js",
+		"/C/wamp64/www/laravel-api/resources/assets/js/authComponents/actionTypes.js",
+		"/C/wamp64/www/laravel-api/resources/assets/js/components/NoMatch.js",
+		"/C/Users/Taimoor UL Hassan/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/import-react.sublime-snippet",
+		"/C/Users/Taimoor UL Hassan/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/import-react-dom.sublime-snippet",
+		"/C/wamp64/www/laravel-api/config/jwt.php",
+		"/C/wamp64/www/laravel-api/package.json",
+		"/C/wamp64/www/laravel-api/index.php",
+		"/C/wamp64/www/laravel-api/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/laravel-api/resources/assets/js/authComponents/SignUpModal.js",
+		"/C/wamp64/www/laravel5_6/composer.json",
+		"/C/wamp64/www/laravel5_6/config/app.php",
+		"/C/wamp64/www/laravel5_6/hasan.md",
+		"/C/wamp64/www/laravel5_6/closure.php",
+		"/C/wamp64/www/laravel5_6/routes/web.php",
+		"/C/wamp64/www/laravel5_6/app/User.php",
+		"/C/wamp64/www/laravel5_6/app/Http/Kernel.php",
+		"/C/wamp64/www/laravel5_6/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/laravel5_6/resources/views/auth/register.blade.php",
+		"/C/wamp64/www/laravel5_6/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/laravel5_6/app/Http/Middleware/CheckRole.php",
+		"/C/wamp64/www/laravel5_6/aaex/php-fun.php",
+		"/C/wamp64/www/laravel5_6/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/wamp64/www/laravel5_6/.env",
+		"/C/wamp64/www/laravel5_6/resources/views/react/learn-react.blade.php",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/learn-react.js",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/components/AddArticle.js",
+		"/C/Users/Taimoor UL Hassan/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/atrribute.sublime-snippet",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/components/passport/Clients.vue",
+		"/C/wamp64/www/laravel5_6/resources/views/home.blade.php",
+		"/C/wamp64/www/laravel5_6/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/components/ExampleComponent.vue",
+		"/C/wamp64/www/laravel5_6/package.json",
+		"/C/wamp64/www/laravel5_6/webpack.mix.js",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/app.js",
+		"/C/wamp64/www/laravel5_6/resources/views/react/index.blade.php",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/routing/Login.js",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/routing/index.js",
+		"/C/wamp64/www/laravel5_6/resources/assets/js/routing/App.js",
+		"/C/wamp64/www/laravel5_6/app/Providers/AuthServiceProvider.php",
+		"/C/wamp64/www/laravel5_6/config/auth.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"resources/assets/js/*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"String",
+			"urlFriendly",
+			"bread: \"dutch crunch\",\n\tmeat: \"tuna\",\n\tcheese: \"swiss\",\n\ttoppings: [\"lettuce\", \"tomato\", \"mustard\"]",
+			"<article",
+			"images",
+			"h3",
+			"},\n",
+			"dist",
+			"md",
+			"email",
+			"name",
+			"card-block",
+			"uploads",
+			"{{--",
+			"api/authenticated_user",
+			"api/protected",
+			"api/authenticate",
+			"fromuser",
+			"jwt.auth",
+			"JWTauth",
+			"enclosefunction",
+			"handleChange",
+			"package",
+			"oauth",
+			"Router",
+			"p",
+			"border",
+			"box",
+			"after",
+			"fa-3x",
+			"fa-",
+			"logo",
+			"div",
+			"inline",
+			">\n",
+			".\n",
+			"article",
+			"64",
+			"63px",
+			"\"\"",
+			"sup",
+			"p",
+			"<?",
+			"public",
+			"swetch",
+			"Swetch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "emergingJavaScript/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "emergingJavaScript/Promises.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 308.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 299.0
+	},
+	"pinned_build_system": "",
+	"project": "CareHouse.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"authco",
+				"app\\Http\\Controllers\\AuthController.php"
+			],
+			[
+				"autco",
+				"vendor\\psy\\psysh\\src\\Psy\\TabCompletion\\AutoCompleter.php"
+			],
+			[
+				"rap",
+				"routes\\api.php"
+			],
+			[
+				"rapi",
+				"routes\\api.php"
+			],
+			[
+				"user.php",
+				"app\\User.php"
+			],
+			[
+				"apps",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"creat_use",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"capp",
+				"config\\app.php"
+			],
+			[
+				"capp.p",
+				"config\\app.php"
+			],
+			[
+				"capp.",
+				"config\\app.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"app.",
+				"config\\app.php"
+			],
+			[
+				"creat_",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"creat_us",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				"rwe",
+				"routes\\web.php"
+			],
+			[
+				"bootdijsmin",
+				"public\\bootstrap\\dist\\js\\bootstrap.min.js"
+			],
+			[
+				"bdmin.css",
+				"public\\bootstrap\\dist\\css\\bootstrap.min.css"
+			],
+			[
+				"rweb",
+				"routes\\web.php"
+			],
+			[
+				"viecre",
+				"resources\\views\\test\\createNews.blade.php"
+			],
+			[
+				"we",
+				"webpack.mix.js"
+			],
+			[
+				"cre",
+				"resources\\views\\test\\createNews.blade.php"
+			],
+			[
+				"createne",
+				"resources\\views\\test\\createNews.blade.php"
+			],
+			[
+				"create_new",
+				"database\\migrations\\2018_02_28_105148_create_news_table.php"
+			],
+			[
+				"index.js",
+				"public\\js\\index.js"
+			],
+			[
+				"newco",
+				"app\\Http\\Controllers\\NewsController.php"
+			],
+			[
+				"crenews",
+				"database\\migrations\\2018_02_28_105148_create_news_table.php"
+			],
+			[
+				"ker",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"ccah",
+				"config\\cache.php"
+			],
+			[
+				"cache_tab",
+				"database\\migrations\\2018_02_28_070326_create_cache_table.php"
+			],
+			[
+				"regisc",
+				"app\\Http\\Controllers\\Auth\\RegisterController.php"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"rapi.",
+				"routes\\api.php"
+			],
+			[
+				"capp.php",
+				"config\\app.php"
+			],
+			[
+				"use",
+				"app\\User.php"
+			],
+			[
+				"hasan",
+				"hasan.md"
+			],
+			[
+				"regis",
+				"app\\Http\\Controllers\\Auth\\RegisterController.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"home.b",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"learn",
+				"resources\\assets\\js\\learn-react.js"
+			],
+			[
+				"cauth",
+				"config\\auth.php"
+			],
+			[
+				"aut",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"vrinde",
+				"resources\\views\\react\\index.blade.php"
+			],
+			[
+				"rinde",
+				"resources\\views\\admin\\index.blade.php"
+			],
+			[
+				"app.jsx",
+				"resources\\assets\\js\\app.jsx"
+			],
+			[
+				"cau",
+				"config\\auth.php"
+			],
+			[
+				"authse",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"app.php",
+				"laravel5_6\\config\\app.php"
+			],
+			[
+				"vlr",
+				"laravel5_6\\resources\\views\\react\\learn-react.blade.php"
+			],
+			[
+				"holde",
+				"portal-1\\js\\holder.min.js"
+			],
+			[
+				"rvlea",
+				"laravel5_6\\resources\\views\\react\\learn-react.blade.php"
+			],
+			[
+				"rajle",
+				"resources\\assets\\js\\learn-react.js"
+			],
+			[
+				"rlear",
+				"resources\\views\\react\\learn-react.blade.php"
+			],
+			[
+				"learnr",
+				"public\\js\\learn-react.js"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"eslintrc",
+				".eslintrc"
+			],
+			[
+				"rindblade",
+				"resources\\views\\admin\\index.blade.php"
+			],
+			[
+				"htm",
+				"html5.sublime-project"
+			],
+			[
+				"bo.css",
+				"css\\borders.css"
+			],
+			[
+				"cdata",
+				"config\\database.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"test.php",
+				"vendor\\fzaninotto\\faker\\test\\test.php"
+			],
+			[
+				"data.sql",
+				"database\\database.sqlite"
+			],
+			[
+				"condatabas",
+				"config\\database.php"
+			],
+			[
+				"welc",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welci",
+				"vendor\\webmozart\\assert\\LICENSE"
+			],
+			[
+				"cruser",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"welco",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"create_t",
+				"database\\migrations\\2018_01_13_050835_create_tasks_table.php"
+			],
+			[
+				"users_",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"helpers.",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"tes",
+				"test.php"
+			],
+			[
+				"gree",
+				"app\\Greeting.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp64\\www\\laravel-api\\laravel-api.sublime-project"
+			],
+			[
+				"larave",
+				"C:\\wamp64\\www\\laravel5_6\\laravel5_6.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

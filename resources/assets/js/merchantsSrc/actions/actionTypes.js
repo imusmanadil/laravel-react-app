@@ -1,0 +1,11 @@
+export const ADD_MERCHANT = 'ADD_MERCHANT';
+export const EDIT_MERCHANT = 'EDIT_MERCHANT';
+export const DELETE_MERCHANT = 'DELETE_MERCHANT';
+export const SET_MERCHANTS = 'SET_MERCHANTS';
+export const AJAX_LOADING = 'AJAX_LOADING';
+export const ADD_POST = 'ADD_POST';
+export const EDIT_POST = 'EDIT_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const SET_POSTS = 'SET_POSTS';
+export const LOG_IN_SUCCESS = 'LOG_IN_SUCCESS';
+export const LOG_OUT_SUCCESS = 'LOG_OUT_SUCCESS';
