@@ -17,9 +17,9 @@ Route::middleware('auth:admin')->get('/admin', function (Request $request) {
     return $request->user();
 });
 
-Route::middleware('auth:member')->get('/member', function (Request $request) {
-    return $request->user();
-});
+// Route::middleware('auth:member')->get('/member', function (Request $request) {
+//     return $request->user();
+// });
 
 
 
